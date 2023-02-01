@@ -1,5 +1,5 @@
 # Guess-My-Number
-**💻Mini project in JavaScript** 
+**💻 First Mini project in JavaScript** 
 
 <br>
 <br>
